@@ -4,7 +4,7 @@
 
 * Requirements
     * Windows Terminal
-    * pip
+    * Gitbash
 
 1. Install npm :
     ~~~~
