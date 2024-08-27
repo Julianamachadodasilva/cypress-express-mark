@@ -4,9 +4,7 @@
 
 * Requirements
     * Windows Terminal
-    * robotframework
     * pip
-    * seleniumlibrary
 
 1. Install npm :
     ~~~~
